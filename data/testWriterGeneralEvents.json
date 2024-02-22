@@ -1,0 +1,9 @@
+[
+    {
+        "eventID": 1,
+        "requiredPlayers": 5,
+        "players": [],
+        "location": "uvic",
+        "sport": "swimming"
+    }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "eventID": 1,
+    "requiredPlayers": 10,
+    "players": [{"playerName": "naheyan"}],
+    "location": "ubc",
+    "sport": "soccer"
+  }
+]
